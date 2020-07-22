@@ -1,6 +1,6 @@
-# Hi! 👋
+# Hi, I'm Adam 👋
 
-### Hi, I'm Adam, a senior Front-end Web Developer based in Bristol, UK. I enjoy making things with Javascript, HTML and CSS.
+### I'm a senior Front-end Web Developer based in Bristol, UK. I enjoy making things with Javascript, HTML and CSS.
 
 From single page sites to mobile web apps, personalised portfolios to big marketing campaigns, prototyping to interactive canvas experiments – I've built many different things. My focus for the past several years has been React/Redux development, but I'm confident I can use any framework and make anything that works in a browser. I focus on mobile responsiveness and performance, good front-end practices, semantics, and modern web standards. I'm comfortable and familiar with working to agile methodologies and within sprints in both small and large organisations.
 
