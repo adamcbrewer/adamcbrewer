@@ -8,4 +8,6 @@ I'm fortunate to love my job because it offers me the freedom to create experien
 
 My other interests include running, climbing, cycling, woodworking, reading, wine, Paleo food and 80s design. I used to be an Aircraft Technician in the British Army so I have quite a few stories to tell! I'm very outgoing and love big trips and love any type of bog adventure! 
 
+For some examples of my work please have a look at my portfolio, [brewerlogic.com](http://brewerlogic.com), otherwise [my LinkedIn](https://www.linkedin.com/in/adamcbrewer/) has a comprehensive list of all my experience.
+
 Cheers! 🤘
