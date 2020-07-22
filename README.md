@@ -11,3 +11,5 @@ My other interests include running, climbing, cycling, woodworking, reading, win
 For some examples of my work please have a look at my portfolio, [brewerlogic.com](http://brewerlogic.com), otherwise [my LinkedIn](https://www.linkedin.com/in/adamcbrewer/) has a comprehensive list of all my experience.
 
 Cheers! 🤘
+
+![brewerlogic.com](http://brewerlogic.com/assets/img/logo-og.png)
