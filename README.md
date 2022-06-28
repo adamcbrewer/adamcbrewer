@@ -1,4 +1,4 @@
-![brewerlogic.com](http://brewerlogic.com/assets/img/logo-og.png)
+![brewerlogic.com](https://brewerlogic.com/assets/img/logo-og.png)
 
 # Hi, I'm Adam 👋
 
