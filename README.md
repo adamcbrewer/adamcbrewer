@@ -1,8 +1,5 @@
-![brewerlogic.com](https://brewerlogic.com/assets/img/logo-og.png)
-
 # Hi, I'm Adam 👋
 
-## About Me
 
 I enjoy building things with JavaScript, TypeScript, React and Node.js—whether that's enterprise fintech platforms, design systems, or side projects with my brother.
 
