@@ -20,6 +20,8 @@ Running, climbing, cycling, woodworking, reading, and anything with an 80s aesth
 - [brewerlogic.com](https://brewerlogic.com)
 - [LinkedIn](https://linkedin.com/in/adamcbrewer)
 - [GitHub](https://github.com/adamcbrewer)
+- [Paper Trails](https://papertrails.io)
+- [Zworld](https://zworld.papertrails.io)
 
 ## License
 
